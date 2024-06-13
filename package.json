@@ -1,0 +1,15 @@
+{
+  "name": "Validate SA-ID",
+  "version": "1.0.0",
+  "description": "Validate a South African ID number (625) For raw project instructions see: http://syllabus.africacode.net/language-agnostic/validate-id-number/",
+  "main": "src/validate_sa_id.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "Ntuthuko Sokutu",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}

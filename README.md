@@ -1,2 +1,1 @@
-Validate a South African ID number (625)
-For raw project instructions see: http://syllabus.africacode.net/language-agnostic/validate-id-number/
+An efficent and secure validation solution for validating South African ID numbers (IDNs) using Test-Driven Development (TDD). The solution ensures accurate validation of IDNs based on their 13-digit format, covering date of birth, gender, citizenship status, and checksum verification.
